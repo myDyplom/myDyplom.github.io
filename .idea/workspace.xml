@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d66bde6f-df04-4a79-8377-ecf18ffd4387" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akademiia-futbolu/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/akademiia-futbolu/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/lev/feed/index.rss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/lev/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bazova-programa-trenuvan-pershyj-krok/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/classic/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/category/classic/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/balakirov-yevgen/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/berezyuk-oleg/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/dovgopolyuk-mykola/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/galapa-igor/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/girka-pavlo/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/gnatyuk-valentyn/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/goloveczkyj-markiyan/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/hyzhyj-sergij/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/manevskyj-maksym/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/nikolajchuk-dmytro/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/osinchuk-taras/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/prokopenko-volodymyr/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/pyatkovskyj-yurij/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/riznyk-marta/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/sheremeta-igor/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/shpur-oleg/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/shturyn-oleg/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/smuk-taras/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/truhym-andrij/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/volyev-mykyta/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/voznyakovska-natalya/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/yuhymchuk-vadym/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contacts/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/franshyza/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harakterystyky-ditej-doshkilnogo-viku-u-futboli/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-lider-praidu/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-narodzhennya-zirky/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-vidkryj-mozhlyvosti/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-vpered-do-zirok/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-zirka-leva/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shkola-futbolu/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/shkola-futbolu/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speczializovana-programa-indyvidualnyh-trenuvan-superzirka/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sport-maye-odnu-osoblyvist-neperedbachuvanist-rezultativ/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/systemnist-vyhovannya-futbolistiv-u-klub-leva/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/news/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/tag/news/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vidguky/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/vidguky/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/02/home-bg-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/02/home-bg-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/02/home-sl-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/02/home-sl-6.jpg" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="3539" column="22" selection-start-line="3539" selection-start-column="22" selection-end-line="3539" selection-end-column="22" />
+              <folding>
+                <element signature="e#195070#195092#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-419">
+              <caret line="1492" column="21" selection-start-line="1492" selection-start-column="16" selection-end-line="1492" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/akademiia-futbolu/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="1331" column="62" selection-start-line="1331" selection-start-column="62" selection-end-line="1331" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shkola-futbolu/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16745">
+              <caret line="985" column="50" selection-start-line="985" selection-start-column="50" selection-end-line="985" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contacts/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31246">
+              <caret line="1838" column="61" selection-start-line="1838" selection-start-column="61" selection-end-line="1838" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/category/classic/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16252">
+              <caret line="956" column="33" selection-start-line="956" selection-start-column="33" selection-end-line="956" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vidguky/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37383">
+              <caret line="2199" column="116" selection-start-line="2199" selection-start-column="116" selection-end-line="2199" selection-end-column="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tag/news/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16252">
+              <caret line="956" column="113" selection-start-line="956" selection-start-column="113" selection-end-line="956" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-json/index.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>..\wp-content\uploads\2019\12\ClubLeva_h3nw.png</find>
+      <find>vc_single_image-img</find>
+      <find>клубі лева</find>
+      <find>клуб</find>
+      <find>background</find>
+      <find>background-i</find>
+      <find>&lt;iframe</find>
+      <find>Публічна</find>
+      <find>клуб лева</find>
+      <find>клубу лева</find>
+      <find>Клуб Лева</find>
+      <find>footer</find>
+      <find>Блог</find>
+      <find>ifr</find>
+      <find>https://clubleva.ua/wp-content/uploads/2019/12/ClubLeva_h3nw.png</find>
+      <find>https://junior-club.com.ua/wp-content/uploads/2019/04/emblem.png</find>
+      <find>logo-default</find>
+      <find>mobile</find>
+      <find>logo</find>
+      <find>ЛЕВИ</find>
+      <find>+38 067 621 92</find>
+      <find>+38 067 621 92 83</find>
+      <find>+38 067 326 13 83</find>
+      <find>https://www.youtube.com/channel/UCuKxYyMSkBfou99tTURZidA/videos</find>
+      <find>https://www.facebook.com/ClubLeva/</find>
+      <find>https://www.instagram.com/clubleva.ukraine/</find>
+      <find>надіслати</find>
+      <find>data-src</find>
+      <find>action=&quot;/#wpcf7-f8046-o4&quot;</find>
+      <find>&lt;form</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blog/index.htm" />
+        <option value="$PROJECT_DIR$/speczializovana-programa-indyvidualnyh-trenuvan-superzirka/index.htm" />
+        <option value="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-vidkryj-mozhlyvosti/index.htm" />
+        <option value="$PROJECT_DIR$/sport-maye-odnu-osoblyvist-neperedbachuvanist-rezultativ/index.htm" />
+        <option value="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-narodzhennya-zirky/index.htm" />
+        <option value="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-vpered-do-zirok/index.htm" />
+        <option value="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-lider-praidu/index.htm" />
+        <option value="$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-zirka-leva/index.htm" />
+        <option value="$PROJECT_DIR$/harakterystyky-ditej-doshkilnogo-viku-u-futboli/index.htm" />
+        <option value="$PROJECT_DIR$/systemnist-vyhovannya-futbolistiv-u-klub-leva/index.htm" />
+        <option value="$PROJECT_DIR$/bazova-programa-trenuvan-pershyj-krok/index.htm" />
+        <option value="$PROJECT_DIR$/author/lev/index.htm" />
+        <option value="$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm" />
+        <option value="$PROJECT_DIR$/akademiia-futbolu/index.htm" />
+        <option value="$PROJECT_DIR$/category/classic/index.htm" />
+        <option value="$PROJECT_DIR$/shkola-futbolu/index.htm" />
+        <option value="$PROJECT_DIR$/contacts/index.htm" />
+        <option value="$PROJECT_DIR$/vidguky/index.htm" />
+        <option value="$PROJECT_DIR$/tag/news/index.htm" />
+        <option value="$PROJECT_DIR$/index.htm" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="football_club" type="b2602c69:ProjectViewProjectNode" />
+              <item name="football_club" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/football_club/index.htm" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.htm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d66bde6f-df04-4a79-8377-ecf18ffd4387" name="Default Changelist" comment="" />
+      <created>1589187522522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589187522522</updated>
+      <workItem from="1589187523874" duration="3882000" />
+      <workItem from="1589194211016" duration="4422000" />
+      <workItem from="1589202823601" duration="1015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9319000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3538276" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32987553" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog/index.htm" />
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2020/03/bez-imeni1-340x340.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2020/03/favico.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2020/03/home-bg-1-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2020/03/logo-academy-3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2020/03/logo-school-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2020/02/02-s.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speczializovana-programa-indyvidualnyh-trenuvan-superzirka/index.htm" />
+    <entry file="file://$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-vidkryj-mozhlyvosti/index.htm" />
+    <entry file="file://$PROJECT_DIR$/sport-maye-odnu-osoblyvist-neperedbachuvanist-rezultativ/index.htm" />
+    <entry file="file://$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-narodzhennya-zirky/index.htm" />
+    <entry file="file://$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-vpered-do-zirok/index.htm" />
+    <entry file="file://$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-lider-praidu/index.htm" />
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2020/02/home-sl-6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/uploads/2020/01/club-leva-bg-2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programa-kompleksnogo-rozvytku-dytyny-zirka-leva/index.htm" />
+    <entry file="file://$PROJECT_DIR$/harakterystyky-ditej-doshkilnogo-viku-u-futboli/index.htm" />
+    <entry file="file://$PROJECT_DIR$/systemnist-vyhovannya-futbolistiv-u-klub-leva/index.htm" />
+    <entry file="file://$PROJECT_DIR$/bazova-programa-trenuvan-pershyj-krok/index.htm" />
+    <entry file="file://$PROJECT_DIR$/author/lev/feed/index.rss" />
+    <entry file="file://$PROJECT_DIR$/author/lev/index.htm" />
+    <entry file="file://$PROJECT_DIR$/shkola-futbolu/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16745">
+          <caret line="985" column="50" selection-start-line="985" selection-start-column="50" selection-end-line="985" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31246">
+          <caret line="1838" column="61" selection-start-line="1838" selection-start-column="61" selection-end-line="1838" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category/classic/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16252">
+          <caret line="956" column="33" selection-start-line="956" selection-start-column="33" selection-end-line="956" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vidguky/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37383">
+          <caret line="2199" column="116" selection-start-line="2199" selection-start-column="116" selection-end-line="2199" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag/news/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16252">
+          <caret line="956" column="113" selection-start-line="956" selection-start-column="113" selection-end-line="956" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-json/index.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/akademiia-futbolu/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="1331" column="62" selection-start-line="1331" selection-start-column="62" selection-end-line="1331" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-419">
+          <caret line="1492" column="21" selection-start-line="1492" selection-start-column="16" selection-end-line="1492" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="3539" column="22" selection-start-line="3539" selection-start-column="22" selection-end-line="3539" selection-end-column="22" />
+          <folding>
+            <element signature="e#195070#195092#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
