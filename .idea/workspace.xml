@@ -8,8 +8,9 @@
       <change beforePath="$PROJECT_DIR$/author/lev/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bazova-programa-trenuvan-pershyj-krok/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/classic/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/category/classic/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/classic/feed/index.rss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/classic/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/coaches/balakirov-yevgen/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/coaches/berezyuk-oleg/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/coaches/dovgopolyuk-mykola/index.htm" beforeDir="false" />
@@ -33,7 +34,9 @@
       <change beforePath="$PROJECT_DIR$/coaches/volyev-mykyta/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/coaches/voznyakovska-natalya/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/coaches/yuhymchuk-vadym/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments/feed/index.rss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contacts/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/contacts/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed/index.rss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/franshyza/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/harakterystyky-ditej-doshkilnogo-viku-u-futboli/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
@@ -46,7 +49,8 @@
       <change beforePath="$PROJECT_DIR$/speczializovana-programa-indyvidualnyh-trenuvan-superzirka/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sport-maye-odnu-osoblyvist-neperedbachuvanist-rezultativ/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/systemnist-vyhovannya-futbolistiv-u-klub-leva/index.htm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/news/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/tag/news/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/news/feed/index.rss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/news/index.htm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vidguky/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/vidguky/index.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/02/home-bg-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/02/home-bg-3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/02/home-sl-6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/2020/02/home-sl-6.jpg" afterDir="false" />
@@ -62,15 +66,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+            <state relative-caret-position="360">
+              <caret line="2405" column="94" selection-start-line="2405" selection-start-column="94" selection-end-line="2405" selection-end-column="94" />
               <folding>
-                <element signature="e#70914#70937#0" expanded="true" />
-                <element signature="e#78546#78569#0" expanded="true" />
-                <element signature="e#92768#92791#0" expanded="true" />
+                <element signature="e#48419#48442#0" expanded="true" />
+                <element signature="e#48446#48469#0" expanded="true" />
+                <element signature="e#48665#48688#0" expanded="true" />
+                <element signature="e#48692#48715#0" expanded="true" />
+                <element signature="e#67358#67379#0" expanded="true" />
+                <element signature="e#74915#74936#0" expanded="true" />
+                <element signature="e#89069#89090#0" expanded="true" />
                 <element signature="e#122573#122596#0" expanded="true" />
                 <element signature="e#195070#195092#0" expanded="true" />
               </folding>
@@ -79,19 +87,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-419">
-              <caret line="1492" column="21" selection-start-line="1492" selection-start-column="16" selection-end-line="1492" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/akademiia-futbolu/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="541">
+              <caret line="1011" column="50" selection-start-line="1011" selection-start-column="50" selection-end-line="1011" selection-end-column="50" />
+              <caret line="1014" column="74" selection-start-line="1014" selection-start-column="74" selection-end-line="1014" selection-end-column="74" />
+              <caret line="1017" column="99" selection-start-line="1017" selection-start-column="99" selection-end-line="1017" selection-end-column="99" />
+              <caret line="1022" column="50" selection-start-line="1022" selection-start-column="50" selection-end-line="1022" selection-end-column="50" />
+              <caret line="1024" column="73" selection-start-line="1024" selection-start-column="73" selection-end-line="1024" selection-end-column="73" />
+              <folding>
+                <element signature="e#40491#40514#0" expanded="true" />
+                <element signature="e#40518#40541#0" expanded="true" />
+                <element signature="e#40669#40692#0" expanded="true" />
+                <element signature="e#40696#40719#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,10 +108,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shkola-futbolu/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="1425" column="50" lean-forward="true" selection-start-line="1425" selection-start-column="50" selection-end-line="1425" selection-end-column="50" />
+            <state relative-caret-position="524">
+              <caret line="925" column="50" selection-start-line="925" selection-start-column="50" selection-end-line="925" selection-end-column="50" />
+              <caret line="927" column="74" selection-start-line="927" selection-start-column="74" selection-end-line="927" selection-end-column="74" />
+              <caret line="930" column="99" selection-start-line="930" selection-start-column="99" selection-end-line="930" selection-end-column="99" />
+              <caret line="934" column="50" selection-start-line="934" selection-start-column="50" selection-end-line="934" selection-end-column="50" />
+              <caret line="937" column="73" selection-start-line="937" selection-start-column="73" selection-end-line="937" selection-end-column="73" />
               <folding>
-                <element signature="e#66269#66292#0" expanded="true" />
+                <element signature="e#28184#28222#0" expanded="true" />
+                <element signature="e#40765#40788#0" expanded="true" />
+                <element signature="e#40792#40815#0" expanded="true" />
+                <element signature="e#40943#40966#0" expanded="true" />
+                <element signature="e#40970#40993#0" expanded="true" />
+                <element signature="e#42552#42605#0" expanded="true" />
+                <element signature="e#43270#43290#0" expanded="true" />
+                <element signature="e#45899#45977#0" expanded="true" />
+                <element signature="e#46147#46167#0" expanded="true" />
+                <element signature="e#46544#46572#0" expanded="true" />
+                <element signature="e#46579#46602#0" expanded="true" />
+                <element signature="e#47059#47079#0" expanded="true" />
+                <element signature="e#48761#48781#0" expanded="true" />
+                <element signature="e#49562#49584#0" expanded="true" />
+                <element signature="e#53180#53200#0" expanded="true" />
+                <element signature="e#56781#56801#0" expanded="true" />
+                <element signature="e#58791#58814#0" expanded="true" />
+                <element signature="e#59451#59474#0" expanded="true" />
+                <element signature="e#61090#61112#0" expanded="true" />
+                <element signature="e#65062#65155#0" expanded="true" />
+                <element signature="e#65368#65412#0" expanded="true" />
+                <element signature="e#65797#65817#0" expanded="true" />
+                <element signature="e#66080#66158#0" expanded="true" />
+                <element signature="e#66270#66291#0" expanded="true" />
+                <element signature="e#66463#66483#0" expanded="true" />
+                <element signature="e#83618#83638#0" expanded="true" />
+                <element signature="e#85361#85457#0" expanded="true" />
+                <element signature="e#85505#85529#0" expanded="true" />
+                <element signature="e#85747#85767#0" expanded="true" />
+                <element signature="e#85884#85939#0" expanded="true" />
+                <element signature="e#90243#90263#0" expanded="true" />
+                <element signature="e#90825#90942#0" expanded="true" />
+                <element signature="e#91866#91886#0" expanded="true" />
+                <element signature="e#92491#92511#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,35 +157,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contacts/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31246">
-              <caret line="1840" column="61" selection-start-line="1840" selection-start-column="61" selection-end-line="1840" selection-end-column="61" />
+            <state relative-caret-position="541">
+              <caret line="1224" column="82" selection-start-line="1224" selection-start-column="82" selection-end-line="1224" selection-end-column="82" />
+              <caret line="1227" column="104" selection-start-line="1227" selection-start-column="104" selection-end-line="1227" selection-end-column="104" />
+              <caret line="1231" column="50" selection-start-line="1231" selection-start-column="50" selection-end-line="1231" selection-end-column="50" />
+              <caret line="1234" column="72" selection-start-line="1234" selection-start-column="72" selection-end-line="1234" selection-end-column="72" />
+              <caret line="1237" column="93" selection-start-line="1237" selection-start-column="93" selection-end-line="1237" selection-end-column="93" />
+              <folding>
+                <element signature="e#50048#50071#0" expanded="true" />
+                <element signature="e#50075#50098#0" expanded="true" />
+                <element signature="e#50294#50317#0" expanded="true" />
+                <element signature="e#50321#50344#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/category/classic/index.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16252">
-              <caret line="956" column="33" selection-start-line="956" selection-start-column="33" selection-end-line="956" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vidguky/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="1176" column="38" lean-forward="true" selection-start-line="1176" selection-start-column="38" selection-end-line="1176" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tag/news/index.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16252">
-              <caret line="956" column="113" selection-start-line="956" selection-start-column="113" selection-end-line="956" selection-end-column="113" />
+            <state relative-caret-position="275">
+              <caret line="1122" column="109" selection-start-line="1122" selection-start-column="109" selection-end-line="1123" selection-end-column="70" />
+              <folding>
+                <element signature="e#39224#39247#0" expanded="true" />
+                <element signature="e#39251#39274#0" expanded="true" />
+                <element signature="e#39402#39425#0" expanded="true" />
+                <element signature="e#39429#39452#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,16 +197,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>клуб лева</find>
-      <find>клубу лева</find>
-      <find>Клуб Лева</find>
-      <find>footer</find>
-      <find>Блог</find>
-      <find>ifr</find>
-      <find>https://clubleva.ua/wp-content/uploads/2019/12/ClubLeva_h3nw.png</find>
-      <find>https://junior-club.com.ua/wp-content/uploads/2019/04/emblem.png</find>
-      <find>logo-default</find>
-      <find>mobile</find>
       <find>logo</find>
       <find>ЛЕВИ</find>
       <find>+38 067 621 92</find>
@@ -174,15 +208,25 @@
       <find>надіслати</find>
       <find>data-src</find>
       <find>action=&quot;/#wpcf7-f8046-o4&quot;</find>
-      <find>&lt;form</find>
       <find>rgb(35, 100, 35)</find>
       <find>rgba</find>
       <find>rgba(35, 100, 35, 0.65) !important</find>
       <find>#157016</find>
-      <find>#236423</find>
       <find>.vc_custom_1581162044874</find>
       <find>src</find>
       <find>mp-content</find>
+      <find>http://</find>
+      <find>secondarybar</find>
+      <find>&lt;form</find>
+      <find>#236423</find>
+      <find>Лук’янчика</find>
+      <find>row secondarybar-row align-items-center</find>
+      <find>width=&quot;20%&quot;</find>
+      <find>secondarybar-wrap vc_custom_1579818896600</find>
+      <find>20%</find>
+      <find>оксана</find>
+      <find>син л</find>
+      <find>тато</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -203,14 +247,14 @@
         <option value="$PROJECT_DIR$/systemnist-vyhovannya-futbolistiv-u-klub-leva/index.htm" />
         <option value="$PROJECT_DIR$/bazova-programa-trenuvan-pershyj-krok/index.htm" />
         <option value="$PROJECT_DIR$/author/lev/index.htm" />
-        <option value="$PROJECT_DIR$/index.htm" />
-        <option value="$PROJECT_DIR$/akademiia-futbolu/index.htm" />
-        <option value="$PROJECT_DIR$/shkola-futbolu/index.htm" />
-        <option value="$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm" />
         <option value="$PROJECT_DIR$/category/classic/index.htm" />
         <option value="$PROJECT_DIR$/tag/news/index.htm" />
+        <option value="$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm" />
+        <option value="$PROJECT_DIR$/akademiia-futbolu/index.htm" />
         <option value="$PROJECT_DIR$/contacts/index.htm" />
+        <option value="$PROJECT_DIR$/shkola-futbolu/index.htm" />
         <option value="$PROJECT_DIR$/vidguky/index.htm" />
+        <option value="$PROJECT_DIR$/index.htm" />
       </list>
     </option>
   </component>
@@ -236,32 +280,6 @@
               <item name="football_club" type="b2602c69:ProjectViewProjectNode" />
               <item name="football_club" type="462c0819:PsiDirectoryNode" />
               <item name="vidguky" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="football_club" type="b2602c69:ProjectViewProjectNode" />
-              <item name="football_club" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="football_club" type="b2602c69:ProjectViewProjectNode" />
-              <item name="football_club" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="football_club" type="b2602c69:ProjectViewProjectNode" />
-              <item name="football_club" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="football_club" type="b2602c69:ProjectViewProjectNode" />
-              <item name="football_club" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2019" type="462c0819:PsiDirectoryNode" />
-              <item name="12" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -309,12 +327,12 @@
       <updated>1589187522522</updated>
       <workItem from="1589187523874" duration="3882000" />
       <workItem from="1589194211016" duration="4422000" />
-      <workItem from="1589202823601" duration="4188000" />
+      <workItem from="1589202823601" duration="5875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12492000" />
+    <option name="totallyTimeSpent" value="14179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -380,72 +398,142 @@
     <entry file="file://$PROJECT_DIR$/bazova-programa-trenuvan-pershyj-krok/index.htm" />
     <entry file="file://$PROJECT_DIR$/author/lev/feed/index.rss" />
     <entry file="file://$PROJECT_DIR$/author/lev/index.htm" />
-    <entry file="file://$PROJECT_DIR$/contacts/index.htm">
+    <entry file="file://$PROJECT_DIR$/wp-json/index.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag/news/feed/index.rss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tag/news/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31246">
-          <caret line="1840" column="61" selection-start-line="1840" selection-start-column="61" selection-end-line="1840" selection-end-column="61" />
+        <state relative-caret-position="-2158">
+          <caret line="956" column="113" selection-start-line="956" selection-start-column="113" selection-end-line="956" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="903" column="89" selection-start-line="903" selection-start-column="89" selection-end-line="903" selection-end-column="137" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/category/classic/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16252">
-          <caret line="956" column="33" selection-start-line="956" selection-start-column="33" selection-end-line="956" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tag/news/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16252">
-          <caret line="956" column="113" selection-start-line="956" selection-start-column="113" selection-end-line="956" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-json/index.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chym-korysnyj-futbol-dlya-ditej/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-419">
-          <caret line="1492" column="21" selection-start-line="1492" selection-start-column="16" selection-end-line="1492" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
-          <folding>
-            <element signature="e#70914#70937#0" expanded="true" />
-            <element signature="e#78546#78569#0" expanded="true" />
-            <element signature="e#92768#92791#0" expanded="true" />
-            <element signature="e#122573#122596#0" expanded="true" />
-            <element signature="e#195070#195092#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="847" column="40" selection-start-line="847" selection-start-column="40" selection-end-line="847" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/akademiia-futbolu/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        <state relative-caret-position="541">
+          <caret line="1011" column="50" selection-start-line="1011" selection-start-column="50" selection-end-line="1011" selection-end-column="50" />
+          <caret line="1014" column="74" selection-start-line="1014" selection-start-column="74" selection-end-line="1014" selection-end-column="74" />
+          <caret line="1017" column="99" selection-start-line="1017" selection-start-column="99" selection-end-line="1017" selection-end-column="99" />
+          <caret line="1022" column="50" selection-start-line="1022" selection-start-column="50" selection-end-line="1022" selection-end-column="50" />
+          <caret line="1024" column="73" selection-start-line="1024" selection-start-column="73" selection-end-line="1024" selection-end-column="73" />
+          <folding>
+            <element signature="e#40491#40514#0" expanded="true" />
+            <element signature="e#40518#40541#0" expanded="true" />
+            <element signature="e#40669#40692#0" expanded="true" />
+            <element signature="e#40696#40719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="1224" column="82" selection-start-line="1224" selection-start-column="82" selection-end-line="1224" selection-end-column="82" />
+          <caret line="1227" column="104" selection-start-line="1227" selection-start-column="104" selection-end-line="1227" selection-end-column="104" />
+          <caret line="1231" column="50" selection-start-line="1231" selection-start-column="50" selection-end-line="1231" selection-end-column="50" />
+          <caret line="1234" column="72" selection-start-line="1234" selection-start-column="72" selection-end-line="1234" selection-end-column="72" />
+          <caret line="1237" column="93" selection-start-line="1237" selection-start-column="93" selection-end-line="1237" selection-end-column="93" />
+          <folding>
+            <element signature="e#50048#50071#0" expanded="true" />
+            <element signature="e#50075#50098#0" expanded="true" />
+            <element signature="e#50294#50317#0" expanded="true" />
+            <element signature="e#50321#50344#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shkola-futbolu/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="1425" column="50" lean-forward="true" selection-start-line="1425" selection-start-column="50" selection-end-line="1425" selection-end-column="50" />
+        <state relative-caret-position="524">
+          <caret line="925" column="50" selection-start-line="925" selection-start-column="50" selection-end-line="925" selection-end-column="50" />
+          <caret line="927" column="74" selection-start-line="927" selection-start-column="74" selection-end-line="927" selection-end-column="74" />
+          <caret line="930" column="99" selection-start-line="930" selection-start-column="99" selection-end-line="930" selection-end-column="99" />
+          <caret line="934" column="50" selection-start-line="934" selection-start-column="50" selection-end-line="934" selection-end-column="50" />
+          <caret line="937" column="73" selection-start-line="937" selection-start-column="73" selection-end-line="937" selection-end-column="73" />
           <folding>
-            <element signature="e#66269#66292#0" expanded="true" />
+            <element signature="e#28184#28222#0" expanded="true" />
+            <element signature="e#40765#40788#0" expanded="true" />
+            <element signature="e#40792#40815#0" expanded="true" />
+            <element signature="e#40943#40966#0" expanded="true" />
+            <element signature="e#40970#40993#0" expanded="true" />
+            <element signature="e#42552#42605#0" expanded="true" />
+            <element signature="e#43270#43290#0" expanded="true" />
+            <element signature="e#45899#45977#0" expanded="true" />
+            <element signature="e#46147#46167#0" expanded="true" />
+            <element signature="e#46544#46572#0" expanded="true" />
+            <element signature="e#46579#46602#0" expanded="true" />
+            <element signature="e#47059#47079#0" expanded="true" />
+            <element signature="e#48761#48781#0" expanded="true" />
+            <element signature="e#49562#49584#0" expanded="true" />
+            <element signature="e#53180#53200#0" expanded="true" />
+            <element signature="e#56781#56801#0" expanded="true" />
+            <element signature="e#58791#58814#0" expanded="true" />
+            <element signature="e#59451#59474#0" expanded="true" />
+            <element signature="e#61090#61112#0" expanded="true" />
+            <element signature="e#65062#65155#0" expanded="true" />
+            <element signature="e#65368#65412#0" expanded="true" />
+            <element signature="e#65797#65817#0" expanded="true" />
+            <element signature="e#66080#66158#0" expanded="true" />
+            <element signature="e#66270#66291#0" expanded="true" />
+            <element signature="e#66463#66483#0" expanded="true" />
+            <element signature="e#83618#83638#0" expanded="true" />
+            <element signature="e#85361#85457#0" expanded="true" />
+            <element signature="e#85505#85529#0" expanded="true" />
+            <element signature="e#85747#85767#0" expanded="true" />
+            <element signature="e#85884#85939#0" expanded="true" />
+            <element signature="e#90243#90263#0" expanded="true" />
+            <element signature="e#90825#90942#0" expanded="true" />
+            <element signature="e#91866#91886#0" expanded="true" />
+            <element signature="e#92491#92511#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vidguky/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="1176" column="38" lean-forward="true" selection-start-line="1176" selection-start-column="38" selection-end-line="1176" selection-end-column="38" />
+        <state relative-caret-position="275">
+          <caret line="1122" column="109" selection-start-line="1122" selection-start-column="109" selection-end-line="1123" selection-end-column="70" />
+          <folding>
+            <element signature="e#39224#39247#0" expanded="true" />
+            <element signature="e#39251#39274#0" expanded="true" />
+            <element signature="e#39402#39425#0" expanded="true" />
+            <element signature="e#39429#39452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="2405" column="94" selection-start-line="2405" selection-start-column="94" selection-end-line="2405" selection-end-column="94" />
+          <folding>
+            <element signature="e#48419#48442#0" expanded="true" />
+            <element signature="e#48446#48469#0" expanded="true" />
+            <element signature="e#48665#48688#0" expanded="true" />
+            <element signature="e#48692#48715#0" expanded="true" />
+            <element signature="e#67358#67379#0" expanded="true" />
+            <element signature="e#74915#74936#0" expanded="true" />
+            <element signature="e#89069#89090#0" expanded="true" />
+            <element signature="e#122573#122596#0" expanded="true" />
+            <element signature="e#195070#195092#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
